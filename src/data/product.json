@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "picture": "assets/img/foto/thumbs/microblading-1.webp",
+    "desc": "Microblading",
+    "nav": "/Microblading",
+    "title": "Microblading"
+  },
+  {
+    "id": "2",
+    "picture": "assets/img/foto/thumbs/kil-teknigi-kas-islemi.webp",
+    "desc": "Kıl Tekniği Kaş İşlemi",
+    "nav": "/Pudralama",
+    "title": "Kıl Tekniği Kaş İşlemi"
+  },
+  {
+    "id": "3",
+    "picture": "assets/img/foto/thumbs/kalici-eyeliner-1.webp",
+    "desc": "Eyeliner-Dipliner",
+    "nav": "/EyelineDipliner",
+    "title": "Kalıcı Eyeliner-Dipliner"
+  },
+  {
+    "id": "4",
+    "picture": "assets/img/foto/thumbs/dudak-renklendirme-2.webp",
+    "desc": "Kalıcı Dudak Renklendirme",
+    "nav": "/DudakRenklendirme",
+    "title": "Kalıcı Dudak Renklendirme"
+  },
+  {
+    "id": "5",
+    "picture": "assets/img/foto/thumbs/bbglow-1.webp",
+    "desc": "BB Glow",
+    "nav": "/BBGlow",
+    "title": "BB Glow"
+  },
+  {
+    "id": "6",
+    "picture": "assets/img/foto/thumbs/kas-kirpik-laminasyon-1.webp",
+    "desc": "Kaş-Kirpik Laminasyonu",
+    "nav": "/KasKirpik",
+    "title": "Kaş-Kirpik Laminasyonu"
+  },
+  {
+    "id": "7",
+    "picture": "assets/img/foto/thumbs/makyajsilme.webp",
+    "desc": "Kalıcı Makyaj Silme İşlemi",
+    "nav": "/MakyajSilme",
+    "title": "Kalıcı Makyaj Silme İşlemi"
+  }
+]
