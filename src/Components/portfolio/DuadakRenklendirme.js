@@ -16,6 +16,7 @@ function DuadakRenklendirme() {
                     <img
                       src="assets/img/foto/thumbs/dudak-renklendirme-1.webp"
                       alt="Dudak Renklendirme"
+                      title="Dudak Renklendirme"
                     />
                   </div>
 
@@ -23,6 +24,7 @@ function DuadakRenklendirme() {
                     <img
                       src="assets/img/foto/thumbs/dudak-renklendirme-2.webp"
                       alt="Dudak Renklendirme"
+                      title="Dudak Renklendirme"
                     />
                   </div>
 
@@ -30,6 +32,7 @@ function DuadakRenklendirme() {
                     <img
                       src="assets/img/foto/thumbs/dudak-renklendirme-3.webp"
                       alt="Dudak Renklendirme"
+                      title="Dudak Renklendirme"
                     />
                   </div>
                 </div>

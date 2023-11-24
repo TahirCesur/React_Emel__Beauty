@@ -115,6 +115,7 @@ function Education() {
                     <img
                       src="assets/img/foto/thumbs/microblading-2.webp"
                       alt="Microblading"
+                      title="Microblading"
                       className="img-fluid"
                     />
                   </div>
@@ -157,8 +158,9 @@ function Education() {
                   </div>
                   <div className="col-lg-4 text-center order-1 order-lg-2">
                     <img
-                      src="assets/img/foto/thumbs/kalici-eyeliner-1.webp"
+                      src="assets/img/foto/thumbs/eyeliner-dipliner.webp"
                       alt="Kalıcı Eyeliner"
+                      title="Kalıcı Eyeliner"
                       className="img-fluid"
                     />
                   </div>
@@ -199,6 +201,7 @@ function Education() {
                     <img
                       src="assets/img/foto/thumbs/dudak-renklendirme-2.webp"
                       alt="Dudak Renklendirme"
+                      title="Dudak Renklendirme"
                       className="img-fluid"
                     />
                   </div>
@@ -234,6 +237,8 @@ function Education() {
                   <div className="col-lg-4 text-center order-1 order-lg-2">
                     <img
                       src="assets/img/foto/thumbs/kas-kirpik-laminasyon-1.webp"
+                      alt="Kaş Silme"
+                      title="Kaş Silme"
                       className="img-fluid"
                     />
                   </div>
@@ -274,6 +279,7 @@ function Education() {
                     <img
                       src="assets/img/foto/thumbs/kas-kirpik-lifting-1.webp"
                       alt="Kaş Kirpik Lifting"
+                      title="Kaş Kirpik Lifting"
                       className="img-fluid"
                     />
                   </div>

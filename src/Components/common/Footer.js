@@ -202,6 +202,7 @@ function Footer() {
       <a
         href="#"
         className="back d-flex align-items-center justify-content-center active"
+        title={t("Yukarı Çık")}
       >
         <i className="bi bi-arrow-up-short"></i>
       </a>

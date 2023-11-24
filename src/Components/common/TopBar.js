@@ -28,13 +28,7 @@ const TopBar = () => {
             color: "#000",
           }}
         >
-          {t("TR")}&nbsp;
-          <img
-            src="/assets/img/TR Bayragi.webp"
-            alt="Tr"
-            width="20"
-            height="17"
-          />
+          {t("TR")}
         </Button>
         &nbsp;&nbsp;
         <Button
@@ -47,13 +41,7 @@ const TopBar = () => {
             color: "#000",
           }}
         >
-          {t("EN")}&nbsp;
-          <img
-            src="/assets/img/EN Bayragi.webp"
-            alt="En"
-            width="20"
-            height="17"
-          />
+          {t("EN")}
         </Button>
       </Container>
     </div>

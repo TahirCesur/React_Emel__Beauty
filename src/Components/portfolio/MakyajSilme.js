@@ -13,7 +13,7 @@ function MakyajSilme() {
               <div className="portfolio-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
-                    <img src="assets/img/foto/thumbs/makyajsilme.webp" alt="Makyaj Silme" />
+                    <img src="assets/img/foto/thumbs/makyajsilme.webp" alt="Makyaj Silme" title="Makyaj Silme"/>
                   </div>
                 </div>
                 <div className="swiper-pagination"></div>

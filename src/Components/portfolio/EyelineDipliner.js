@@ -14,22 +14,25 @@ function EyelineDipliner() {
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
                     <img
-                      src="assets/img/foto/orj/kalici-eyeliner-1.webp"
+                      src="assets/img/foto/orj/eyeliner-dipliner.webp"
                       alt={t("Kalıcı Eyeliner - Dipliner")}
+                      title="Kalıcı Eyeliner - Dipliner"
                     />
                   </div>
 
                   <div className="swiper-slide">
                     <img
-                      src="assets/img/foto/orj/kalici-eyeliner-2.webp"
+                      src="assets/img/foto/orj/eyeliner-dipliner.webp"
                       alt={t("Kalıcı Eyeliner - Dipliner")}
+                      title="Kalıcı Eyeliner - Dipliner"
                     />
                   </div>
 
                   <div className="swiper-slide">
                     <img
-                      src="assets/img/foto/orj/kalici-eyeliner-3.webp"
+                      src="assets/img/foto/orj/eyeliner-dipliner.webp"
                       alt={t("Kalıcı Eyeliner - Dipliner")}
+                      title="Kalıcı Eyeliner - Dipliner"
                     />
                   </div>
                 </div>

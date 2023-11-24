@@ -559,7 +559,7 @@ h6 {
 
 #hero {
   width: 100%;
-  height: 100vh;
+  height: 110vh;
   background-image: url(/assets/img/banner-bg.png);
 }
 
@@ -638,10 +638,10 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 90vh;
+    height: 130vh;
     text-align: center;
     margin-top: auto;
-    padding-top: 100px;
+    padding-top: 110px;
   }
 
   #hero .animated {
@@ -664,7 +664,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero {
-    height: 90vh;
+    height: 110vh;
     text-align: center;
     margin-top: auto;
     padding-top: 100px;
@@ -684,14 +684,46 @@ h6 {
   #hero .hero-img img {
     width: 70%;
   }
+
+  .hero-img .img-fluid {
+    margin-top: auto;
+    padding-top: 100px;
+    max-width: 100%;
+    height: 100px;
+  }
 }
 
 @media (max-width: 575px) {
   #hero {
-    height: 100vh;
+    height: 120vh;
     text-align: center;
     margin-top: auto;
-    padding-top: 150px;
+    padding-top: 110px;
+  }
+
+  #hero .hero-img img {
+    width: 80%;
+  }
+
+  #hero .btn-get-started {
+    font-size: 16px;
+    padding: 10px 24px 11px 24px;
+  }
+
+  .hero-img .img-fluid {
+    margin-top: auto;
+    padding-top: 100px;
+    max-width: 100%;
+    height: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero {
+    height: 110vh;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 110px;
   }
 
   #hero .hero-img img {
@@ -704,9 +736,9 @@ h6 {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 330px) {
   #hero {
-    height: 100vh;
+    height: 120vh;
     text-align: center;
     margin-top: auto;
     padding-top: 100px;
@@ -720,6 +752,7 @@ h6 {
     font-size: 16px;
     padding: 10px 24px 11px 24px;
   }
+
 }
 
 @-webkit-keyframes up-down {
@@ -2298,6 +2331,11 @@ section {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
+}
+
+.hero-img .img-fluid {
+  max-width: 100%;
+  height: 500px;
 }
 
 .navbar .collapse .navbar-nav {

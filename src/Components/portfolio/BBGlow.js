@@ -14,7 +14,7 @@ function BBGlow() {
               <div className="portfolio-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
-                    <img src="assets/img/foto/thumbs/bbglow-1.webp" alt="BB Glow" />
+                    <img src="assets/img/foto/thumbs/bbglow-1.webp" alt="BB Glow" title="BB Glow" />
                   </div>
                 </div>
                 <div className="swiper-pagination"></div>

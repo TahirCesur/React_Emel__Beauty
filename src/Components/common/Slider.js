@@ -24,7 +24,10 @@ function Slider() {
             </h1>
 
             <div className="d-flex justify-content-center justify-content-lg-center">
-              <Link to="/portfolio" className="btn-get-started nav-link scrollto">
+              <Link
+                to="/portfolio"
+                className="btn-get-started nav-link scrollto"
+              >
                 {t("Başlayın")}
               </Link>
 
@@ -43,9 +46,12 @@ function Slider() {
             data-aos-delay="200"
           >
             <img
-              src="assets/Adsız tasarım.webp"
+              src="assets/img/banner.png"
               className="img-fluid animated"
               alt="Banner"
+              title="Banner"
+              width={"100%"}
+              height={"auto"}
             />
           </div>
         </div>

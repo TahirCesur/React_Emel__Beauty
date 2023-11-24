@@ -38,13 +38,11 @@ function Header() {
             <img
               src="assets/img/Siyah Logo.webp"
               alt="Emel Beauty Logo"
+              title="Logo"
               className="img-fluid"
             />
           </Link>
-          <h1 className="logo me-auto">
-            <Link to="/" onClick={handleClick}></Link>
-          </h1>
-
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <Navbar.Toggle onClick={toggleNav} aria-controls="basic-navbar-nav" />
           <Navbar.Collapse
             expanded={expanded}

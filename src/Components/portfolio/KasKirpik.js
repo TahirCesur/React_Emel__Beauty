@@ -15,6 +15,7 @@ const KasKirpik = () => {
                   <img
                     src="assets/img/foto/orj/kas-kirpik-laminasyon-1.webp"
                     alt="Kaş Kirpik Laminasyon"
+                    title="Kaş Kirpik Laminasyon"
                   />
                 </div>
 
@@ -22,6 +23,7 @@ const KasKirpik = () => {
                   <img
                     src="assets/img/foto/orj/kas-kirpik-laminasyon-2.webp"
                     alt="Kaş Kirpik Laminasyon"
+                    title="Kaş Kirpik Laminasyon"
                   />
                 </div>
 
@@ -29,6 +31,7 @@ const KasKirpik = () => {
                   <img
                     src="assets/img/foto/orj/kas-kirpik-laminasyon-3.webp"
                     alt="Kaş Kirpik Laminasyon"
+                    title="Kaş Kirpik Laminasyon"
                   />
                 </div>
               </div>

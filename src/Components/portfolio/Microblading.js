@@ -13,11 +13,11 @@ function Microblading() {
               <div className="portfolio-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
-                    <img src="assets/img/foto/orj/microblading-1.webp" alt="Microblading" />
+                    <img src="assets/img/foto/orj/microblading-1.webp" alt="Microblading" title="Microblading"/>
                   </div>
 
                   <div className="swiper-slide">
-                    <img src="assets/img/foto/orj/microblading-2.webp" alt="Microblading" />
+                    <img src="assets/img/foto/orj/microblading-2.webp" alt="Microblading" title="Microblading" />
                   </div>
                 </div>
                 <div className="swiper-pagination"></div>
